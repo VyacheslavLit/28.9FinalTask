@@ -8,6 +8,8 @@
 
 using namespace std;
 
+void print_cout(string);
+
 void merge(vector <int>&, int, int);
 
 void MergeSort(vector <int>&, int, int);
